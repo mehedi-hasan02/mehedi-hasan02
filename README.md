@@ -11,7 +11,10 @@ I'm Mehedi Hasan a teach student with passionate about learning new technology. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Frontend Development
 
-Skills: HTML/CSS/Tailwind CSS/JS/REACT/EXPRESS JS/NODE JS/JAVA/C++/MySQL 
+#### Technology I Know:
+<p>
+  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/>
+</p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedi-hasan02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedi-hasan02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_mehedi02)  
