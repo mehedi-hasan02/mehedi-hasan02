@@ -43,7 +43,7 @@ I'm Mehedi Hasan a teach student with passionate about learning new technology. 
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mehedi-hasan02&theme=dark" alt="Mehedi Hasan" />
     </a> -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan02&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan02&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
