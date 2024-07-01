@@ -7,6 +7,7 @@
   <code><a href="https://twitter.com/_mehedi02/" title="Github Profile"><img width="22" src="https://img.icons8.com/color/48/000000/twitter.png"> Twitter</a></code>
 </h5>
 
+## About Me:
 
 I'm Mehedi Hasan a teach student with passionate about learning new technology. I'm Computer Science student at American International University – Bangladesh. I'm fascinated by the endless possibilities that emerge at the intersection of innovation and creativity. Certain skill i'm working with include Data Structure and Algorithms (C++), Web Development (Javascript, React Js, Node Js, MongoDB)
 
