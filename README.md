@@ -11,7 +11,10 @@ I'm Mehedi Hasan a teach student with passionate about learning new technology. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Frontend Development
 
-#### Technology I Know:
+## Skills:
+
+### Languages:
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <p>
   <img height='40' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/>
   <img height='40' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png'/>
