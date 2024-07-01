@@ -1,11 +1,9 @@
 ![Frontend Developer](https://media.licdn.com/dms/image/D5616AQH5rMSZUi1POQ/profile-displaybackgroundimage-shrink_350_1400/0/1714715976263?e=1725494400&v=beta&t=Nan1g3LPO_9tnU8Va5IbU_Xvi0BOQLhLuf9QH04PJfw)
 
 <h3 align='center'>Hi there 👋, I'm Mehedi Hasan</h3>
-<p>
-  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alamincoders/)
-  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alamincoders)
-  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alamincoders/)
-</p>
+<h5>
+  <code><a href="https://www.linkedin.com/in/mehedi-hasan02/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
 
 
 I'm Mehedi Hasan a teach student with passionate about learning new technology. I'm Computer Science student at American International University – Bangladesh. I'm fascinated by the endless possibilities that emerge at the intersection of innovation and creativity. Certain skill i'm working with include Data Structure and Algorithms (C++), Web Development (Javascript, React Js, Node Js, MongoDB)
