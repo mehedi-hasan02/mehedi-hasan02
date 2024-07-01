@@ -20,7 +20,7 @@ Skills: HTML/CSS/Tailwind CSS/JS/REACT/EXPRESS JS/NODE JS/JAVA/C++/MySQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehedi-hasan02)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan02)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan02&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-hasan02&show_icons=true&theme=radical)  
 
