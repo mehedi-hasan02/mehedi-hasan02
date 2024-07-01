@@ -4,9 +4,7 @@
 #### Frontend Developer
 
 
-I'm Mehedi Hasan a teach student with passionate about learning new technology. I'm Computer Science student at American International University – Bangladesh. 
-
-I'm fascinated by the endless possibilities that emerge at the intersection of innovation and creativity. Certain skill i'm working with include Data Structure and Algorithms (C++), Web Development (Javascript, React Js, Node Js, MongoDB)
+I'm Mehedi Hasan a teach student with passionate about learning new technology. I'm Computer Science student at American International University – Bangladesh. I'm fascinated by the endless possibilities that emerge at the intersection of innovation and creativity. Certain skill i'm working with include Data Structure and Algorithms (C++), Web Development (Javascript, React Js, Node Js, MongoDB)
 
 Skills: HTML/CSS/Tailwind CSS/JS/REACT/EXPRESS JS/NODE JS/JAVA/C++/MySQL
 
