@@ -22,7 +22,7 @@ Skills: HTML/CSS/Tailwind CSS/JS/REACT/EXPRESS JS/NODE JS/JAVA/C++/MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan02)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi-hasan02&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mehedi-hasan02)  
 
