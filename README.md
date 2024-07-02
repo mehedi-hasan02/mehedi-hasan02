@@ -37,7 +37,8 @@ I'm Mehedi Hasan a teach student with passionate about learning new technology. 
 ![express](https://img.shields.io/badge/express-051A5C?style=for-the-badge&logo=express&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-00EB63?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
