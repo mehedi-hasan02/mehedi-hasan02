@@ -1,4 +1,4 @@
-![Frontend Developer](https://media.licdn.com/dms/image/D5616AQH5rMSZUi1POQ/profile-displaybackgroundimage-shrink_350_1400/0/1714715976263?e=1725494400&v=beta&t=Nan1g3LPO_9tnU8Va5IbU_Xvi0BOQLhLuf9QH04PJfw)
+
 
 <h3 align='center'>Hi there 👋, I'm Mehedi Hasan</h3>
 <h5 align='center'>
