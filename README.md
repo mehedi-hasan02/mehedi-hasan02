@@ -1,8 +1,8 @@
-
+![Frontend Developer](https://media.licdn.com/dms/image/D5616AQH5rMSZUi1POQ/profile-displaybackgroundimage-shrink_350_1400/0/1714715976263?e=1725494400&v=beta&t=Nan1g3LPO_9tnU8Va5IbU_Xvi0BOQLhLuf9QH04PJfw)
 
 <h3 align='center'>Hi there 👋, I'm Mehedi Hasan</h3>
 <h5 align='center'>
-  <code><a href="https://www.linkedin.com/in/mehedi-hasan02/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <!-- <code><a href="https://www.linkedin.com/in/mehedi-hasan02/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code> -->
   <code><a href="https://github.com/mehedi-hasan02/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
   <code><a href="https://twitter.com/_mehedi02/" title="Github Profile"><img width="22" src="https://img.icons8.com/color/48/000000/twitter.png"> Twitter</a></code>
 </h5>
